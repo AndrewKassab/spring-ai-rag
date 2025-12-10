@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-ai-rag
+    ai:
+      openai:
+        api-key: ${OPENAI_API_KEY}
+sfg:
+  aiapp:
+    vectorStorePath: C:\Users\Andre\wor:wkspace\projects\udemy\spring-ai\vectoreStore\vectorestore.json
