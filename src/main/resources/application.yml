@@ -7,3 +7,5 @@ spring:
 sfg:
   aiapp:
     vectorStorePath: C:\Users\Andre\wor:wkspace\projects\udemy\spring-ai\vectoreStore\vectorestore.json
+    documentsToLoad:
+      - classpath:/movies500.csv
